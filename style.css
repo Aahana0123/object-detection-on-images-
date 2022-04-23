@@ -1,0 +1,38 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    color: black;
+    background-color: fuchsia;
+    width: 50%;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 15px;
+    }
+    #status
+    {
+    font-size: 18px;
+    color: black;
+    background-color: fuchsia;
+    width: 30%;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 15px;
+    }
+    
+    body{
+        background-size: cover;
+        background-position: center;
+    }
+    canvas{
+        border-radius: 20px;
+        margin-top: 150px;
+    }
+    
+.buttons{
+    color:rgb(15, 15, 15) ;
+    background-color: fuchsia;
+    width: 20%;
+    height: 30%;
+    border-radius: 20px;
+}
